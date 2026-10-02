@@ -26,7 +26,7 @@ A cloud-native DevOps platform that provisions AWS infrastructure with **Terrafo
 - [Docker Image Optimization](#docker-image-optimization)
 - [Cleanup](#cleanup)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
+
 
 ---
 
@@ -254,9 +254,8 @@ The microservice application code in `src/` is based on an open-source demo appl
 
 ---
 
-## License
 
-This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+
 
 ---
 
